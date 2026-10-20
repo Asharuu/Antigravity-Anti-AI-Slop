@@ -1,0 +1,8 @@
+{
+  "name": "antigravity-anti-ai-slop",
+  "version": "1.1.0",
+  "description": "Enforces human-crafted UI/UX design, clean code architecture, natural copywriting, and clean visual hierarchy. Eliminates AI slop across frontend, backend, and documentation.",
+  "author": "Asharuu",
+  "license": "MIT",
+  "repository": "https://github.com/Asharuu/Antigravity-Anti-AI-Slop.git"
+}
